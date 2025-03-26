@@ -1,0 +1,13 @@
+*{ 
+margin: ;
+padding: ;
+box-sizing: border-box;
+}
+body{
+background-color: #fff;
+}
+main{
+    width: 100%;
+    max-width: 1200px;
+    background-color: #0c8680;
+}
